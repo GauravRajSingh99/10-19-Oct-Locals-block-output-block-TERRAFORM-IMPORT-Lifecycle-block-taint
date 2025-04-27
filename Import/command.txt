@@ -1,0 +1,1 @@
+terraform import azurerm_resource_group.rg /subscriptions/1d94d08b-e5d6-4ac8-a148-ebfdbe3aaa1a/resourceGroups/import
